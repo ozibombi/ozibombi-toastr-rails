@@ -1,0 +1,18 @@
+PATH
+  remote: .
+  specs:
+    toastr-rails (2.1.2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+  x64-mingw32
+
+DEPENDENCIES
+  toastr-rails!
+
+BUNDLED WITH
+   1.17.2
